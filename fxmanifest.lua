@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'CodineDev (https://github.com/xciphertv)'
-description 'CDN-Fuel - Refactored with OX Libraries'
+author 'xciphertv (https://github.com/xciphertv)'
+description 'redtape_fuel'
 version '3.0.0'
 
 lua54 'yes'
